@@ -8,3 +8,6 @@
   * Find the best fit relationship with AI as an engineer.
 - 📫 How to reach me:
   * email: timmycheng60@gmail.com
+
+
+- 🙈 TMI Zone: RimWorld is my comfort chaos — where disaster feels like home. 
