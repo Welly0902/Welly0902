@@ -6,6 +6,7 @@
   * Other LLM stuffs to improve my workflow
 - 🌱 I’m currently learning ...
   * Find the best fit relationship with AI as an engineer.
+  * Exploring opportunities to contribute to open-source projects — especially in the areas of computer vision, 3D graphics, and robotics.
 - 📫 How to reach me:
   * email: timmycheng60@gmail.com
 
