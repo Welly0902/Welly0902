@@ -11,4 +11,3 @@
   * email: timmycheng60@gmail.com
 
 
-- 🙈 TMI Zone: RimWorld is my comfort chaos — where disaster feels like home. 
